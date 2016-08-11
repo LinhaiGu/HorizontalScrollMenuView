@@ -1,0 +1,2 @@
+# HorizontalScrollMenuView
+Horizontal scrolling menu
